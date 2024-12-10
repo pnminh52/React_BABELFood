@@ -38,6 +38,7 @@
   display: flex;
   justify-content: space-between;
   color: #555;
+  margin-top: 15px;
 }
 .cart-total hr {
   margin: 10px 0px;
@@ -45,6 +46,7 @@
 .cart-total button {
   color: white;
   border: none;
+  margin-top: 20px;
   background-color: tomato;
   width: max(15vw, 200px);
   padding: 12px 0px;
